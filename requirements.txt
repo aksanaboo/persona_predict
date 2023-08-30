@@ -1,9 +1,0 @@
-streamlit
-preprocess_text
-pandas
-textblob
-plotly
-matplotlib
-wordcloud
-PIL
-nltk
