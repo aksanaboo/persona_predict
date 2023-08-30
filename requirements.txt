@@ -1,9 +1,0 @@
-streamlit==1.26.0
-preprocess_text==0.2.0
-pandas==1.4.4
-textblob==0.17.1
-plotly==5.9.0
-matplotlib==3.5.3
-wordcloud==1.9.2
-PIL==9.1.1
-nltk==3.8.1
