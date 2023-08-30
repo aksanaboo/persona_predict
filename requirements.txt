@@ -1,0 +1,8 @@
+streamlit==1.26.0
+pandas==1.4.4
+textblob==0.17.1
+plotly==5.9.0
+matplotlib==3.5.3
+wordcloud==1.9.2
+Pillow==9.1.1
+scikit-learn==0.24.2
