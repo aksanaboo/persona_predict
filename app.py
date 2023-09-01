@@ -35,10 +35,10 @@ st.set_page_config(
 # Use a dictionary to map personality types to colors
 personality_colors = {
                                 # Analysts
-                                'INTJ': '#a377b5',
-                                'INTP': '#a377b5',
-                                'ENTJ': '#a377b5',
-                                'ENTP': '#a377b5',
+                                'INTJ': '#54365c',
+                                'INTP': '#54365c',
+                                'ENTJ': '#54365c',
+                                'ENTP': '#54365c',
 
                                 # Diplomats
                                 'INFJ': '#216f42',
