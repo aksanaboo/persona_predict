@@ -53,10 +53,10 @@ personality_colors = {
                                 'ESFJ': '#50a18b',
 
                                 # Explorers
-                                'ISTP': '#FFD01D',
-                                'ISFP': '#FFD01D',
-                                'ESTP': '#FFD01D',
-                                'ESFP': '#FFD01D',
+                                'ISTP': '#8c871c',
+                                'ISFP': '#8c871c',
+                                'ESTP': '#8c871c',
+                                'ESFP': '#8c871c,
                             }
 
 # Define the main Streamlit app
