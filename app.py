@@ -105,6 +105,10 @@ def personality_prediction():
                         .stApp {{
                             background-color: {background_color};
                         }}
+                        p {{
+                            font-size: 1.25rem;
+                            text-shadow: 0 0 1px white;
+                            }}
                     </style>
                     """,
                     unsafe_allow_html=True
