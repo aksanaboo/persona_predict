@@ -41,10 +41,10 @@ personality_colors = {
                                 'ENTP': '#D2B4DE',
 
                                 # Diplomats
-                                'INFJ': '#58D68D',
-                                'INFP': '#58D68D',
-                                'ENFJ': '#58D68D',
-                                'ENFP': '#58D68D',
+                                'INFJ': '#216f42',
+                                'INFP': '#216f42',
+                                'ENFJ': '#216f42',
+                                'ENFP': '#216f42',
 
                                 # Sentinels
                                 'ISTJ': '#A2D9CE',
