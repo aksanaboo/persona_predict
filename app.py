@@ -47,10 +47,10 @@ personality_colors = {
                                 'ENFP': '#216f42',
 
                                 # Sentinels
-                                'ISTJ': '#A2D9CE',
-                                'ISFJ': '#A2D9CE',
-                                'ESTJ': '#A2D9CE',
-                                'ESFJ': '#A2D9CE',
+                                'ISTJ': '#50a18b',
+                                'ISFJ': '#50a18b',
+                                'ESTJ': '#50a18b',
+                                'ESFJ': '#50a18b',
 
                                 # Explorers
                                 'ISTP': '#FFD01D',
